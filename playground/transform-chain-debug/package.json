@@ -1,0 +1,11 @@
+{
+  "name": "transform-chain-debug",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 127.0.0.1"
+  },
+  "dependencies": {
+    "vite": "workspace:*"
+  },
+  "devDependencies": {}
+}
